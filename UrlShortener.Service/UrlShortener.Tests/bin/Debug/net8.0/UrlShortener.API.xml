@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UrlShortener.API</name>
+    </assembly>
+    <members>
+        <member name="M:UrlShortenerServices.API.Controllers.UrlShortenerController.ShortenUrl(ShortenUrlRequest)">
+            <summary>
+            Shortens a given url
+            </summary>
+            <param name="request">the url requested to be shortened</param>
+            <returns>the link to the shortened url or a bad request if an invalid url is given</returns>
+        </member>
+        <member name="M:UrlShortenerServices.API.Controllers.UrlShortenerController.RedirectFromShortLink(System.String)">
+            <summary>
+            Redirects a generated short url link to the full link from database. Returns a bad request if the short link is not in database.
+            </summary>
+            <param name="id">id of the short url to query the database</param>
+            <returns>Redirect or Bad Request if there is an invalid link</returns>
+        </member>
+    </members>
+</doc>

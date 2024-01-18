@@ -1,0 +1,12 @@
+C:\Users\12247\Documents\Repos\UrlShortener.Service\UrlShortener.Domain\bin\Debug\net8.0\UrlShortener.Domain.deps.json
+C:\Users\12247\Documents\Repos\UrlShortener.Service\UrlShortener.Domain\bin\Debug\net8.0\UrlShortener.Domain.dll
+C:\Users\12247\Documents\Repos\UrlShortener.Service\UrlShortener.Domain\bin\Debug\net8.0\UrlShortener.Domain.pdb
+C:\Users\12247\Documents\Repos\UrlShortener.Service\UrlShortener.Domain\obj\Debug\net8.0\UrlShortener.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12247\Documents\Repos\UrlShortener.Service\UrlShortener.Domain\obj\Debug\net8.0\UrlShortener.Domain.AssemblyInfoInputs.cache
+C:\Users\12247\Documents\Repos\UrlShortener.Service\UrlShortener.Domain\obj\Debug\net8.0\UrlShortener.Domain.AssemblyInfo.cs
+C:\Users\12247\Documents\Repos\UrlShortener.Service\UrlShortener.Domain\obj\Debug\net8.0\UrlShortener.Domain.csproj.CoreCompileInputs.cache
+C:\Users\12247\Documents\Repos\UrlShortener.Service\UrlShortener.Domain\obj\Debug\net8.0\UrlShortener.Domain.dll
+C:\Users\12247\Documents\Repos\UrlShortener.Service\UrlShortener.Domain\obj\Debug\net8.0\refint\UrlShortener.Domain.dll
+C:\Users\12247\Documents\Repos\UrlShortener.Service\UrlShortener.Domain\obj\Debug\net8.0\UrlShortener.Domain.pdb
+C:\Users\12247\Documents\Repos\UrlShortener.Service\UrlShortener.Domain\obj\Debug\net8.0\ref\UrlShortener.Domain.dll
+C:\Users\12247\Documents\Repos\UrlShortener.Service\UrlShortener.Domain\obj\Debug\net8.0\UrlShortener.Domain.csproj.AssemblyReference.cache

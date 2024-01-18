@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sYF2ydi8QmWsGe57mqMy2+TdsDLEjf8K8C0HZxe89xwqIYHwXOwJ7khrFo3x+a+hXpm+s3mB9kMGbe/z5MJlpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12247\\Documents\\Repos\\UrlShortener.Service\\UrlShortener.Domain\\UrlShortener.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12247\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\12247\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\12247\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
